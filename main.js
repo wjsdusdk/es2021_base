@@ -224,3 +224,11 @@ console.log(typeof null); // object  // 유명한 버그  // 원래는 null이 �
 console.log(null == undefined); // true
 console.log(null === undefined); // false
 console.log(!!null); // false
+
+/*
+
+2-9. 변수 선언하기 (let)
+
+*/
+
+console.log("----- 2-9. 변수 선언하기 (let) -----");
